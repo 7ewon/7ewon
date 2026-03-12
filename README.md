@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/Ultralytics-00FFFF.svg?style=for-the-badge&logo=ultralytics&logoColor=20232a" />
 <img src="https://img.shields.io/badge/Beautifulsoup-00FFFF.svg?style=for-the-badge&logoColor=20232a" />
 <img src="https://img.shields.io/badge/openpyxl-00FFFF.svg?style=for-the-badge&logoColor=20232a" />
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/matpolotlib-150458.svg?style=for-the-badge" />
+
 
 
 
