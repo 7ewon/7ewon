@@ -2,6 +2,7 @@
 
 ### 김예원 Yewon Kim
 Undergrad at GIST 
+
 `When life gives you a lemon, bring salt and tequila.`
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yewonkim@gm.gist.ac.kr)
